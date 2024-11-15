@@ -20,19 +20,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando imagens
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de imagens a partir de descrições textuais
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Dall-e
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Basta digitar um texto com as instruções para a IA criar a imagem no prompt que a IA vai gerar um conjunto de imagens.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagens geradas facilmente.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
